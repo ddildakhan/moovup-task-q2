@@ -47,7 +47,7 @@ const UserDetails: React.FC<UserListProps> = ({ user, setCurrentUser }) => {
   };
 
   return (
-    <div style={{ height: "100vh" }}>
+    <div style={{ height: "95vh" }}>
       <div style={styles.headerContainer}>
         <div style={styles.back} onClick={handleClick}>
           <img src={BackIcon} alt="back-icon" style={styles.backIcon} />
