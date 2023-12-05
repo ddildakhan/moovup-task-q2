@@ -2,4 +2,4 @@
 
 Demo: https://main--vocal-centaur-539c78.netlify.app/
 
-Note: some entries doesn't have full location information
+Note: some entries don't have full location information
